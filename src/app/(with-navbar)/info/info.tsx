@@ -59,10 +59,13 @@ export default function Info() {
             <div>
               <h3 className="font-bold mb-2">project</h3>
               <div className="text-sm text-gray-600 dark:text-stone-400 mb-2">
-                게임 드래프트 팀 관리 웹사이트 | 2024.12 ~
+                게임 드래프트 팀 관리 웹사이트 | 2025.01 ~ 2025.07
               </div>
               <div className="text-sm text-gray-600 dark:text-stone-400">
-                AI 챗봇 개발 프론트/백 | 2025.05 ~
+                AI 챗봇 개발 프론트/백 | 2025.05 ~ 2025.07
+              </div>
+              <div className="text-sm text-gray-600 dark:text-stone-400">
+                한양대학교 중앙 동아리 Forif SW팀 | 2025.07 ~
               </div>
 
               <div className="space-y-2">
