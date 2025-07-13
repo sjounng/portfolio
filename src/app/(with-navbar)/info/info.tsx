@@ -61,7 +61,7 @@ export default function Info() {
               <div className="text-sm text-gray-600 dark:text-stone-400 mb-2">
                 게임 드래프트 팀 관리 웹사이트 | 2025.01 ~ 2025.07
               </div>
-              <div className="text-sm text-gray-600 dark:text-stone-400">
+              <div className="text-sm text-gray-600 dark:text-stone-400 mb-2">
                 AI 챗봇 개발 프론트/백 | 2025.05 ~ 2025.07
               </div>
               <div className="text-sm text-gray-600 dark:text-stone-400">
